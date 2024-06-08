@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "username": "Abhi",
+      "email": "abhi@gmail.com",
+      "status": "inactiv"
+    },
+    {
+      "id": 2,
+      "username": "Viknesh",
+      "email": "vikky@gmail.com",
+      "status": "inactiv"
+    },
+    {
+      "id": 3,
+      "username": "Beena",
+      "email": "beena@gmail.com",
+      "status": "inactiv"
+    }
+  ]
+}
